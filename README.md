@@ -24,6 +24,6 @@ Implement an action recognition system using **CNN-LSTM architecture** on the KT
 - **Project Results:** [Complete Output Folder](https://drive.google.com/file/d/1xWh6Me0OBTzh5XQs_vsyj4aaUpsYWD2p/view?usp=drive_link)
   
 ## 📊 Performance Results
-- **Accuracy:** 81%+ on test set (exceeding project requirements)
+- **Accuracy:** 81% on test set (exceeding project requirements)
 - **Efficiency:** Optimized frame sampling and batch processing
 - **Visualization:** Comprehensive metrics and confusion matrices
